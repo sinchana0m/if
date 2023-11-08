@@ -6,3 +6,4 @@ then
 echo "tne number is ewal to 5"
 else
 echo "not equal to 5"
+fi
